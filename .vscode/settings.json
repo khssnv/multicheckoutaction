@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///home/khassanov/Workspace/github.com/khssnv/edu/github_actions/multicheckoutaction/.github/workflows/deploy.yml"
+    }
+}
